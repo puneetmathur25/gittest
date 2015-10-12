@@ -406,6 +406,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.osumc.bmi.ready-ios-widgets";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -417,6 +418,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.osumc.bmi.ready-ios-widgets";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -487,6 +489,7 @@
 				F5BE7ECD1BCC3CB7007CC74C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5BE7ECE1BCC3CB7007CC74C /* Build configuration list for PBXNativeTarget "ready-ios-widgetsTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +498,7 @@
 				F5BE7ED01BCC3CB7007CC74C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5BE7ED11BCC3CB7007CC74C /* Build configuration list for PBXNativeTarget "ready-ios-widgetsUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +507,7 @@
 				F5BE7ED31BCC3CB7007CC74C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
